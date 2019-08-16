@@ -1,0 +1,2 @@
+# FACTORIAL
+FActorial using recursion
